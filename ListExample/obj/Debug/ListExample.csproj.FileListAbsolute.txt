@@ -1,0 +1,7 @@
+C:\Csharp\ListExample\ListExample\bin\Debug\ListExample.exe.config
+C:\Csharp\ListExample\ListExample\bin\Debug\ListExample.exe
+C:\Csharp\ListExample\ListExample\bin\Debug\ListExample.pdb
+C:\Csharp\ListExample\ListExample\obj\Debug\ListExample.csproj.AssemblyReference.cache
+C:\Csharp\ListExample\ListExample\obj\Debug\ListExample.csproj.CoreCompileInputs.cache
+C:\Csharp\ListExample\ListExample\obj\Debug\ListExample.exe
+C:\Csharp\ListExample\ListExample\obj\Debug\ListExample.pdb
